@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ]
+  ],
+  "legacy_uid": "0453cd57-38d0-e18a-03ff-2c1c32ecc426",
+  "instructors": {
+    "content": [
+      "f886788c-41aa-8c0d-f4f7-3e5ba570852b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6c07484e-fe35-e0b8-65f1-7f31304cc4a8",
+    "website": "6-801-machine-vision-fall-2020"
+  },
+  "course_title": "Machine Vision",
+  "course_description": "This course is an\u00a0introduction to the process of generating a symbolic description of the environment from an image. It covers the physics of image formation, image analysis, binary image processing, and filtering. Machine vision has applications in robotics and the intelligent interaction of machines with their environment. Students taking the graduate version complete additional assignments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "6.866",
+  "primary_course_number": "6.801",
+  "course_image_thumbnail": {
+    "content": "437da319-195a-dff7-8683-52db249d72c5",
+    "website": "6-801-machine-vision-fall-2020"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects"
+  ],
+  "site_uid": "52aa0201-dab4-4652-812c-519e66c50e6f",
+  "site_short_id": "6.801-fall-2020",
+  "site_url_path": "courses/6-801-machine-vision-fall-2020",
+  "title": "Course Metadata"
+}

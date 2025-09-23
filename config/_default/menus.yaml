@@ -1,0 +1,29 @@
+leftnav:
+- identifier: c27ba89c-a8da-97da-fb29-75ab43125216
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ce242549-58b8-c555-097d-fcfe06697b14
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 08febb1f-ebe2-9c29-04c1-e6e024b1a469
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 30
+- identifier: da9cfb8b-4fc4-422b-b2a2-47ffcf648bf2
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 40
+- identifier: e1b409b7-b855-0094-48d0-163c342fd6f7
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 176f4c6d-6357-a35a-f192-36fc301d73a6
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 60
+- identifier: 93a1bf7e-1b7d-1201-3541-008038d08ca1
+  name: Projects
+  pageRef: /pages/projects
+  weight: 70
