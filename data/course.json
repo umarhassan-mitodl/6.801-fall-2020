@@ -28,6 +28,7 @@
     "website": "6-801-machine-vision-fall-2020"
   },
   "course_title": "Machine Vision",
+  "hide_download": true,
   "course_description": "This course is an\u00a0introduction to the process of generating a symbolic description of the environment from an image. It covers the physics of image formation, image analysis, binary image processing, and filtering. Machine vision has applications in robotics and the intelligent interaction of machines with their environment. Students taking the graduate version complete additional assignments.\n",
   "department_numbers": [
     "6"
@@ -38,6 +39,7 @@
     "content": "437da319-195a-dff7-8683-52db249d72c5",
     "website": "6-801-machine-vision-fall-2020"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets",
     "Exams",

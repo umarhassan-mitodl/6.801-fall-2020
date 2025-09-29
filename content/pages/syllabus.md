@@ -2,6 +2,8 @@
 content_type: page
 description: Syllabus including course description and grading for 6.801/6.868 Machine
   Vision.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
