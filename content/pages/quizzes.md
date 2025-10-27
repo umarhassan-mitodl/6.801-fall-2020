@@ -2,8 +2,6 @@
 content_type: page
 description: This page includes the quizzes and quiz reviews for 6.801 / 6.866 Machine
   Vision.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

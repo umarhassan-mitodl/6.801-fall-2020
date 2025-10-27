@@ -2,8 +2,6 @@
 content_type: page
 description: This page contains all the lecture notes for 6.801/6.868 Machine Vision
   and a version of the notes as a single file.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

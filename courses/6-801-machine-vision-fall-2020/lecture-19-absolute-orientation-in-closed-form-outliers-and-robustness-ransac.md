@@ -5,8 +5,6 @@ draft: false
 file: /courses/6-801-machine-vision-fall-2020/transcript_captions.webvtt
 file_size: null
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
