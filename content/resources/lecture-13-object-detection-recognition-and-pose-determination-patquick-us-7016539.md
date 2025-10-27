@@ -5,8 +5,6 @@ draft: false
 file: /courses/6-801-machine-vision-fall-2020/mit6_801f20_lec13_1080p_360p_16_9.mp4
 file_size: 148482214
 file_type: video/mp4
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
